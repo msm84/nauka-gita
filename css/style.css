@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+h2 {
+    padding-top: 30px;
+    font-weight: bolder;
+}
+
+h4 {
+    font-style: italic;
+    padding: 0 0 20px 0;
+}
+
+.end_of_part {
+    padding: 0 0 20px 0;
+}
