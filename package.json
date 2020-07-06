@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/msm84/nauka-gita/issues"
   },
-  "homepage": "https://github.com/msm84/nauka-gita#readme"
+  "homepage": "https://github.com/msm84/nauka-gita#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.7",
+    "html-validate": "^3.0.0"
+  }
 }
